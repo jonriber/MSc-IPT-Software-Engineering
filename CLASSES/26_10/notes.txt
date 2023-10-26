@@ -1,6 +1,14 @@
 
 # AGILE METHODOLOGIES
 
+    TOOLS:
+        !GITHUB PROJECTS
+            BOARD
+            TASKS
+            SLACK
+            TEAMS
+        GOOGLE PROJECTS
+
     # SCRUM
 
         PROCESS:
@@ -8,6 +16,29 @@
             - SPRINT BACKLOG
             - SPRINT
             - WORKING INCREMENT
+        ROLES:
+            - PRODUCT OWNER
+            - SCRUM TEAM
+            - SCRUM MASTER (FACILITADOR)
+        
+        ITERATION:
+            BASIC BLOCK OF A RELEASE
+            PROJECT BACKLOG
+                - USER STORY
+                    - TASKS
+                        .UNDERSTAND
+                        .ESTIMATE
+                        .ASSIGN
+            "WHAT? TO WHOM? FOR WHAT?"
+
+        MEETINGS:
+            SCRUM PLANNING
+            DAILY MEETINGS
+            RETROSPECTIVE
+                . GET DATA
+                . RECOGNIZE PATTERNS
+                . TEST
+        
 
     # WATERFALL
 
