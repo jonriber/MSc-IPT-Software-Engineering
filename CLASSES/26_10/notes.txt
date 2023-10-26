@@ -1,0 +1,22 @@
+
+# AGILE METHODOLOGIES
+
+    # SCRUM
+
+        PROCESS:
+            - BACKLOG
+            - SPRINT BACKLOG
+            - SPRINT
+            - WORKING INCREMENT
+
+    # WATERFALL
+
+        PROCESS:
+            - FEASIBILITY ----> BUSINESS ANALYST
+            - ANALYSIS ----> SYSTEM ANALYST
+            - DESIGN ----> TECHNICAL ARCHTECT
+            - BUILD ----> SOFTWARE DEVELOPER
+            - DELIVERY
+            - MAINTENANCE ----> IT SUPPORT
+    
+    #
