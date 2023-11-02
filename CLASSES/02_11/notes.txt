@@ -1,0 +1,24 @@
+GIT and CODE VERSION CONTROL
+
+# Initialize a git structure
+    git init
+
+# making commits
+
+# use branches
+
+# protect the main branch
+
+# use tests for PR and merges
+
+# add reviewers
+
+TALKING ABOUT BUNDLERS
+
+    #Manage dependencies and libraries
+
+    #package.json
+        - metadata
+        - dependencies
+
+    
